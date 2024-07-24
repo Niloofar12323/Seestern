@@ -1,3 +1,1 @@
-# Seestern
-# Test
 # See
